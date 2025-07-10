@@ -1,5 +1,4 @@
 Here's the complete Telegram airdrop bot code with your test token included:
-
 ```python
 import os
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
